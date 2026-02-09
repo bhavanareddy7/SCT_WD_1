@@ -42,4 +42,5 @@ ScrollReveal().reveal(".container .print", {
 ScrollReveal().reveal(".footer p", {
   duration: 1000,
   delay: 7000,
+
 });
